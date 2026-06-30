@@ -1,0 +1,14 @@
+{
+  "name": "mio-haimiya",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Mio Haimiya created by Danszzz31",
+  "main": "mio-haimiya.js",
+  "scripts": {
+    "start": "node mio-haimiya.js",
+    "dev": "node mio-haimiya.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "pino": "^9.0.0"
+  }
+}
